@@ -99,7 +99,7 @@ button:focus {
 
 .logo{
   height: 10%;
-  width: 8%;
+  width: 10%;
 
 }
 
@@ -111,6 +111,10 @@ button:focus {
 }
 
 @media screen and (max-width: 600px) {
+  body{
+  margin: 0%;
+  padding: 0%;
+  }
   .logo{
     width: 20%;
   }

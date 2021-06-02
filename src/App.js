@@ -16,9 +16,9 @@ function App() {
   return (
     <div className="App" style={{ 
         backgroundImage: `url("bg.jpg")` , 
-        backgroundSize: 'cover',
-        height : '100%',
-        width : '100%'
+        position: 'center',
+  repeat: 'no-repeat',
+  size: 'cover',
      }}>
 
           <div className="container-fluid px-1 py-5 mx-auto">
