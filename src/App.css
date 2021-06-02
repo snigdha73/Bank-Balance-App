@@ -38,18 +38,6 @@ h1{
     transform: rotate(360deg);
   }
 }
-body {
-
-position: fixed;
-top: 0;
-width: 100%;
-height: 100%;
-background-size: cover;
-  overflow-x: hidden;
-  /*background-image: url("https://img.lovepik.com//back_pic/05/75/24/655bd96e8e24e43.jpg_wh860.jpg"); */
-  background-image: url("https://github.com/snigdha73/Bank-Balance-App/blob/main/images/bg.jpg");
-  background-repeat: no-repeat;
-}
 
 .card {
   color: #0d2d6e;
