@@ -1,4 +1,4 @@
-                                                           THE BANK BALANCE APP
+                                                       THE BANK BALANCE APP
 
 1.	Created a React app with Redux Store management
 2.	Used UI framework Bootstrap
