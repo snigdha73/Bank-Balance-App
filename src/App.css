@@ -109,3 +109,20 @@ button:focus {
   
   
 }
+
+@media screen and (max-width: 600px) {
+  .logo{
+    width: 20%;
+  }
+  .card{
+    margin-right: 0%;
+    margin-left: 0%;
+    padding: 5%;
+  }
+  label{
+    display : none;
+  }
+  #balance{
+    margin-left: 25%;
+  }
+}
